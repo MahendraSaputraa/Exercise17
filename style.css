@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+    
+    border-bottom: 2px solid black;
+}
+.biodata{
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-right: 85%;
+}
+h3{
+    text-align: center;
+    border: 2px solid black;
+    
+}
